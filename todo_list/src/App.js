@@ -5,7 +5,8 @@ const App = () => {
   const [todo, setTodo] = React.useState("");
   
   // Add the handlesubmit code here
-  
+  const [todos, setTodos] = React.useState([]);
+const [todo, setTodo] = React.useState("");
   
   // Add the deleteToDo code here
 
